@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shaomollo (or @shalahomie)
-- 🌱 I’m currently studying Psychology & Public Health at Columbia University
-- 🔬 I'm a Research Scientist at Ensho Health.
+- 🌱 I completed my BA at Columbia University where I concentrated in Psychology & Public Health
 - 🧬 My interests lie in bioinformatics. 
 - 📫 You can reach me at shalom@omollo.ca
 <!---
